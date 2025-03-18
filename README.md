@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hassan and I'm a DevOps Engineer from Egypt</h2>
+<h2 align="left">Hi 👋! I'm Hassan, a DevOps Engineer from Egypt</h2>
 
 ###
 
@@ -15,6 +15,7 @@
 
 ###
 
+### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -55,6 +56,7 @@
 
 ###
 
+### 📫 Let's Connect
 <div align="left">
   <a href="https://wa.link/io7tde" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="39" alt="whatsapp logo"  />
@@ -62,21 +64,28 @@
   <a href="https://t.me/EngHassanAmohamed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="39" alt="telegram logo"  />
   </a>
-  <a href="HassanAhmed.Mohamed@outlook.com" target="_blank">
+  <a href="mailto:HassanAhmed.Mohamed@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="62" height="39" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://linkedin.com/in/hassan-ahmed-8293a1260" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="39" alt="linkedin logo"  />
   </a>
-  <a href="hrjdjudurheh2000@gmail.com" target="_blank">
+  <a href="mailto:hrjdjudurheh2000@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="39" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
+### 🐍 My Contribution Graph
 <img src="https://raw.githubusercontent.com/HassanAmohamed/HassanAmohamed/output/snake.svg" alt="Snake animation" />
 
-###
+### 🌟 About Me
+- 🔭 I’m currently working on **DevOps and Cloud Automation**.
+- 🌱 I’m learning **advanced Kubernetes and Terraform**.
+- 👯 I’m looking to collaborate on **open-source DevOps projects**.
+- 💬 Ask me about **CI/CD, Docker, Kubernetes, and Cloud Infrastructure**.
+- ⚡ Fun fact: I love automating repetitive tasks to save time!
+
+### 📈 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/HassanAmohamed?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css%2C%20javascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Africa%2FCairo)
