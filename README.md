@@ -1,91 +1,89 @@
-<h2 align="left">Hi 👋! I'm Hassan, I'm a DevOps Engineer from Egypt</h2>
-
-###
+<h1 align="center">👋 Hello World! I'm Hassan Ahmed</h1>
+<h3 align="center">DevOps Engineer | Cloud Automation Specialist | CI/CD Enthusiast</h3>
+<h4 align="center">From Cairo, Egypt 🇪🇬</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAmohamed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanAmohamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Automation+First;Infrastructure+as+Code;Cloud-Native+Solutions;Continuous+Everything" alt="Typing SVG" />
 </div>
 
-###
+<br>
 
-<br clear="both">
-
-<img align="right" height="157" src="https://www.fortra.com/sites/default/files/2022-07/am-what-is-intelligent-process-automation-blog-header-2000x1000.jpeg"  />
-
-###
-
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanAmohamed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAmohamed&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" height="165" />
 </div>
 
-###
+<br>
 
-### 📫 Let's Connect
-<div align="left">
-  <a href="https://wa.link/io7tde" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="39" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/EngHassanAmohamed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="39" alt="telegram logo"  />
-  </a>
-  <a href="mailto:HassanAhmed.Mohamed@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="62" height="39" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://linkedin.com/in/hassan-ahmed-8293a1260" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="39" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:hrjdjudurheh2000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="39" alt="gmail logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanAmohamed&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
-###
+<br>
 
-### 🐍 My Contribution Graph
-<img src="https://raw.githubusercontent.com/HassanAmohamed/HassanAmohamed/output/snake.svg" alt="Snake animation" />
+## 🛠️ My DevOps Toolkit
 
-### 🌟 About Me
-- 🔭 I’m currently working on **DevOps and Cloud Automation**.
-- 🌱 I’m learning **advanced Kubernetes and Terraform**.
-- 👯 I’m looking to collaborate on **open-source DevOps projects**.
-- 💬 Ask me about **CI/CD, Docker, Kubernetes, and Cloud Infrastructure**.
-- ⚡ Fun fact: I love automating repetitive tasks to save time!
+### ☁️ Cloud Platforms
+<div>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+</div>
 
-### 📈 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/HassanAmohamed?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css%2C%20javascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Africa%2FCairo)
+### 🐳 Containers & Orchestration
+<div>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+</div>
+
+### 🏗️ Infrastructure as Code
+<div>
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+</div>
+
+### 🔄 CI/CD Pipelines
+<div>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
+</div>
+
+### 📊 Monitoring & Logging
+<div>
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/ELK_Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK">
+</div>
+
+### 🖥️ Scripting & Development
+<div>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</div>
+
+## 🌟 About Me
+
+```yaml
+name: Hassan Ahmed
+from: Cairo, Egypt
+current_role: DevOps Engineer
+education:
+  - BSc in Systems and Computer Engineering
+  - AWS Certified Solutions Architect ( in progress )
+  - Certified Kubernetes Administrator (CKA)  ( in progress )
+interests:
+  - Cloud-Native Technologies
+  - Infrastructure Automation
+  - CI/CD Optimization
+  - Site Reliability Engineering
+currently_learning:
+  - Advanced Kubernetes Patterns
+  - Terraform Enterprise
+  - Service Mesh (Istio/Linkerd)
+hobbies:
+  - Contributing to Open Source
+  - Home Lab Experiments
+  - Technical Blogging
