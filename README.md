@@ -15,12 +15,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanAmohamed&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<br>
-
 ## 🛠️ My DevOps Toolkit
 
 ### ☁️ Cloud Platforms
@@ -72,8 +66,8 @@ from: Cairo, Egypt
 current_role: DevOps Engineer
 education:
   - BSc in Systems and Computer Engineering
-  - AWS Certified Solutions Architect ( in progress )
-  - Certified Kubernetes Administrator (CKA)  ( in progress )
+  - AWS Certified Solutions Architect (in progress)
+  - Certified Kubernetes Administrator (CKA) (in progress)
 interests:
   - Cloud-Native Technologies
   - Infrastructure Automation
