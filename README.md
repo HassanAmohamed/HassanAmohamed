@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World! I'm Hassan Ahmed</h1>
 <h3 align="center">DevOps Engineer | Cloud Automation Specialist | CI/CD Enthusiast</h3>
-<h4 align="center">From Cairo, Egypt 🇪🇬</h4>
+<h4 align="center">Based in Cairo, Egypt 🇪🇬</h4>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Automation+First;Infrastructure+as+Code;Cloud-Native+Solutions;Continuous+Everything" alt="Typing SVG" />
@@ -62,12 +62,13 @@
 
 ```yaml
 name: Hassan Ahmed
-from: Cairo, Egypt
+location: Cairo, Egypt
 current_role: DevOps Engineer
 education:
-  - BSc in Systems and Computer Engineering
-  - AWS Certified Solutions Architect (in progress)
-  - Certified Kubernetes Administrator (CKA) (in progress)
+  - degree: BSc in Systems and Computer Engineering
+  - certifications:
+      - AWS Certified Solutions Architect (in progress)
+      - Certified Kubernetes Administrator (CKA) (in progress)
 interests:
   - Cloud-Native Technologies
   - Infrastructure Automation
