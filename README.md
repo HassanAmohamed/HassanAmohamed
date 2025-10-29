@@ -1,25 +1,84 @@
-👋 Hi! I'm Hassan - DevOps Engineer from Egypt 🇪🇬
-<div align="center">
-https://streak-stats.demolab.com?user=HassanAmohamed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5
-https://github-readme-stats.vercel.app/api/top-langs?username=HassanAmohamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false
-
-</div>
-🛠️ Tech Stack
-🚀 DevOps & Cloud
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" title="Bash" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" title="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" title="Jenkins" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" title="Terraform" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible" title="Ansible" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" title="ArgoCD" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" title="AWS" /> </div>
-📊 Monitoring & Observability
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" title="Grafana" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" title="Prometheus" /> </div>
-💻 Development
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" title="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest" title="Pytest" /> </div>
-🗄️ Databases
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" /> </div>
-🔧 Tools
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" title="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm" title="PyCharm" /> </div>
-📫 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/hassanahmedmohamed/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:javed@jenkins.stratos.xfusioncorp.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
-🐍 Contribution Graph
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+<h1 align="center">👋 Hello World! I'm Hassan Ahmed</h1>
+<h3 align="center">DevOps Engineer | Cloud Automation Specialist | CI/CD Enthusiast</h3>
+<h4 align="center">Based in Cairo, Egypt 🇪🇬</h4>
 
 <div align="center">
-⚡ Automation Enthusiast | Cloud Native | CI/CD Advocate
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Automation+First;Infrastructure+as+Code;Cloud-Native+Solutions;Continuous+Everything" alt="Typing SVG" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanAmohamed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAmohamed&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" height="165" />
+</div>
+
+<br>
+
+## 🛠️ My DevOps Toolkit
+
+### ☁️ Cloud Platforms
+<div>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+</div>
+
+### 🐳 Containers & Orchestration
+<div>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+</div>
+
+### 🏗️ Infrastructure as Code
+<div>
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+</div>
+
+### 🔄 CI/CD Pipelines
+<div>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
+</div>
+
+### 📊 Monitoring & Logging
+<div>
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/ELK_Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK">
+</div>
+
+### 🖥️ Scripting & Development
+<div>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</div>
+
+## 🌟 About Me
+
+```yaml
+name: Hassan Ahmed
+location: Cairo, Egypt
+current_role: DevOps Engineer
+education:
+  - degree: BSc in Systems and Computer Engineering
+  - certifications:
+      - AWS Certified Solutions Architect (in progress)
+      - Certified Kubernetes Administrator (CKA) (in progress)
+interests:
+  - Cloud-Native Technologies
+  - Infrastructure Automation
+  - CI/CD Optimization
+  - Site Reliability Engineering
+currently_learning:
+  - Advanced Kubernetes Patterns
+  - Terraform Enterprise
+  - Service Mesh (Istio/Linkerd)
+hobbies:
+  - Contributing to Open Source
+  - Home Lab Experiments
+  - Technical Blogging
