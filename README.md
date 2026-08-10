@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=☁️+DevOps+Engineer;🚀+Cloud+Automation+Specialist;⚡+CI%2FCD+Enthusiast;🏗️+Infrastructure+as+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=%E2%98%81%EF%B8%8F+DevOps+Engineer;%F0%9F%9A%80+Cloud+Automation+Specialist;%E2%9A%A1+CI%2FCD+Enthusiast;%F0%9F%8F%97%EF%B8%8F+Infrastructure+as+Code+Advocate" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -82,20 +82,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HassanAmohamed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=HassanAmohamed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAmohamed&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAmohamed&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanAmohamed&theme=radical" alt="Profile Details" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=HassanAmohamed&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=HassanAmohamed&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -108,7 +103,7 @@
 name: Hassan Ahmed
 location: Cairo, Egypt 🇪🇬
 role: DevOps Engineer
-experience: 4+ years in Cloud & Infrastructure
+experience: Cloud & Infrastructure Specialist
 
 education:
   - BSc in Systems and Computer Engineering
